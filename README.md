@@ -1,3 +1,5 @@
+# 🚨 This is a repository created just for my study or for those who are curious to implement a REST + ActionCable API 🚨
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
